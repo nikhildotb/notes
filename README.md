@@ -1,2 +1,2 @@
-# notes
-Note down important events
+# Notes
+This simple Android App helps to note down important events.
